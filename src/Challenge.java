@@ -22,6 +22,8 @@ public class Challenge {
            default:
                System.out.println("Letter" + charValue + "was not found in switch");
                break;
+
+
        }
    }
 
